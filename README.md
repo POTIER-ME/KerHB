@@ -44,9 +44,9 @@ Contact me if you have issue on this code
 
 ## Authors
 
-Nicolas POTIER 
-my softwares : https://soft.potier.me/
-my CV page : https://nicolas-cv.potier.me
+Nicolas POTIER
+*my softwares : https://soft.potier.me/
+*my CV page : https://nicolas-cv.potier.me
 
 ## Version History
 
