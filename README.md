@@ -15,7 +15,7 @@ A small service, developed in Delphi and for Windows systems, that could simply 
 ``` 
 web_url:='';
 ```
-*Please note : service name is "kerHB_GH", I you would like to change it, you need to change on source code because windows need to have same name in service as in source code
+*Please note : service name is "kerHB_GH", If you would like to change it, you need to change on source code because windows need to have same name in service as in source code
 
 ### Installation
 
