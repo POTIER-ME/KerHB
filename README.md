@@ -1,6 +1,6 @@
 # KerHB
 
-A small service that could simply send heartbeat to an url, nothing more !
+A small service;, developped in Delphi, that could simply send heartbeat to an url, nothing more !
 
 ## Getting Started
 
