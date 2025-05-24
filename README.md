@@ -20,7 +20,7 @@ web_url:='';
 
 * Use windows cmd with admin rights
 ```
-sc create MyServiceName binPath= "C:\Path-to-exe--system-user-need-to-have-access" start=auto
+sc create MyServiceName binPath= "C:\Path-to-exe--system-user-need-to-have-access\file.exe" start=auto
 sc start MyServiceName
 ```
 
