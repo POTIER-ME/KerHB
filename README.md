@@ -40,6 +40,7 @@ sc query MyServiceName
 
 ## Help
 
+Some antivirus solution could block the app, be sure to use a path where you could easely add a exclusion rule if mandatory
 Contact me if you have issue on this code
 
 ## Author
