@@ -6,8 +6,8 @@ A small service, developed in Delphi and for Windows systems, that could simply 
 
 ### Dependencies
 
-* Need Delphi 10+
-* USe no additional libraries/components
+* Need Delphi 10+ (Community Edition possible)
+* Use no additional libraries/components
 
 ### Configure
 
