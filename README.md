@@ -15,27 +15,28 @@ A small service, developed in Delphi and for Windows systems, that could simply 
 ``` 
 web_url:='';
 ```
+*Please note : service name is "kerHB_GH", I you would like to change it, you need to change on source code because windows need to have same name in service as in source code
 
 ### Installation
 
 * Use windows cmd with admin rights
 ```
-sc create MyServiceName binPath= "C:\Path-to-exe--system-user-need-to-have-access\file.exe" start=auto
-sc start MyServiceName
+sc create kerHB_GH binPath= "C:\Path-to-exe--system-user-need-to-have-access\file.exe" start=auto
+sc start kerHB_GH
 ```
 
 ### Removing
 
 * Use windows cmd with admin rights
 ```
-sc delete MyServiceName
+sc delete kerHB_GH
 ```
 
 ### Status checking
 
 * Use windows cmd with admin rights
 ```
-sc query MyServiceName
+sc query kerHB_GH
 ```
 
 ## Help
