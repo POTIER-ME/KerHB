@@ -21,7 +21,7 @@ web_url:='';
 
 * Use windows cmd with admin rights
 ```
-sc create kerHB_GH binPath= "C:\Path-to-exe--system-user-need-to-have-access\file.exe" start=auto
+sc create kerHB_GH binPath="C:\Path-to-exe--system-user-need-to-have-access\file.exe" start=auto
 sc start kerHB_GH
 ```
 
@@ -41,8 +41,8 @@ sc query kerHB_GH
 
 ## Help
 
-Some antivirus solution could block the app, be sure to use a path where you could easely add a exclusion rule if mandatory
-Contact me if you have issue on this code
+* Some antivirus solution could block the app, be sure to use a path where you could easely add a exclusion rule if mandatory
+* Contact me if you have issue on this code
 
 ## Author
 
